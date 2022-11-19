@@ -1,4 +1,8 @@
 # predictive_bi_dasboard_components
+
+Note: 
+This project is part of my master's thesis. Although the script used in this project can be published, the data used for this project cannot be shared due to an agreement with the bakery not to share company-owned data.
+
 The scripts in this repository are scripts that are used to create a predictive BI dashboard for a bakery business.
 
 There are three codes in this repository:
